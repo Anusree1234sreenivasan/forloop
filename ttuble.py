@@ -1,0 +1,5 @@
+ttuble=(1,2,3,4,5)
+ttuble=list(ttuble)
+ttuble.append(5)
+ttuble=tuple(ttuble)
+print(ttuble)
